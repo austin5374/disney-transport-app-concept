@@ -15,11 +15,11 @@ This is a conceptual feature for the Disney Parks app, aimed at helping guests n
 
 ## Example
 If a guest wants to travel from Disney's Polynesian Village Resort to EPCOT, the app might suggest:
-1. Walk to the TTC (approx. 5 min) OR Take the Monorail from Polynesian to TTC (wait aprox 5 min, ride aprox 15 min)
-2. Take the Monorail from TTC to EPCOT (wait aprox 5 min, ride aprox 10 min)
+1. Walk to the TTC (approx. 5 min) OR Take the Monorail to TTC (wait approx 5 min, ride aprox 15 min)
+2. Take the Monorail from TTC to EPCOT (wait approx 5 min, ride aprox 10 min)
 Total time: around 20-35 minutes.
 
-**This is one of many examples that guests dont know is possible. Many guests would love to walk to save an extra 15 minutes, but many dont even know its an option!**
+**This is one of plenty examples that guests don't even know is possible. Tons guests would love to walk to save an extra 15 minutes, but many don't even know its an option!**
 
 ## Disclaimer
 This project is a conceptual prototype created for demonstration purposes. It is not affiliated with, endorsed by, or sponsored by The Walt Disney Company. All Disney trademarks and names are property of their respective owners.
