@@ -39,6 +39,8 @@ public class Main {
         // if no non-time args were passed, prompt the user interactively
         if (words.isEmpty()) {
             Scanner sc = new Scanner(System.in);
+            System.out.print("This is a a rough concept idea, try getting from POLY to EPCOT\n");
+            System.out.print("Or try getting from TTC to AK before or after 10am\n");
             System.out.print("Enter start (e.g., Poly, EPCOT, TTC, Pop, MK, HS, AK, WL): ");
             start = sc.nextLine().trim();
             System.out.print("Enter destination (e.g., EPCOT, MK, HS, AK): ");
